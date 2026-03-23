@@ -1,6 +1,7 @@
 # Cybersecurity-Threat-Detection-using-Big-Data-Analytics
 This project aims to develop a machine learning-based classification system that can automatically analyze network traffic data and accurately identify different types of cyber threats.
 The system will process network flow features from the CIC-IDS2017 dataset and classify each instance into multiple categories such as Benign, DDoS, Brute Force, Port Scan, Botnet, and Web Attacks.
+The dataset exhibits significant class imbalance, reflecting real-world network traffic patterns where benign traffic dominates. This necessitates specialized techniques to ensure effective detection of minority attack classes.
 
 Features
 Multi-class classification of network traffic
